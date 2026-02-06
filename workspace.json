@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "9d7d7bea68f04da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f51b4a94eca223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb130a5513ddd4a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/_Eu sou SIMBA Mafu.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a92c8750c90424a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/Indios Chegando na tribo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3d4cfb479cdd318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/📋 anotações gerais.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26d0ec5b4cbb80c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Craft Indígena.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21d0bbee161fcf81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81350c7ac7387df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e2b8346d0deae2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42111d5bb7c3e34e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9d978a75d2e9076",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2dceb3babea4e09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "9c98131db4ffc1f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec80ef5fda42a7e",
+        "type": "tabs",
+        "dimension": 39.0625,
+        "children": [
+          {
+            "id": "77d06ad5a859c368",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/_Eu sou SIMBA Mafu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2eeae9888364b56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/_Eu sou SIMBA Mafu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "977afb680738ca0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6de9b970a86dabb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/_Eu sou SIMBA Mafu.md"
+              }
+            }
+          },
+          {
+            "id": "8066644d80da1370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - PROMPTS/01 - Resumo de Conteúdos YouTube.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b505838d57e7601",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bb5714b45d6b3cf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "398a9d0b4b7c7ce8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b957788d24bece16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "e9a0ae33e1b09d85",
+        "type": "tabs",
+        "dimension": 60.9375,
+        "children": [
+          {
+            "id": "7069186ced402962",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 784.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "translate:Open translation view": false,
+      "omnisearch:Omnisearch": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "bb130a5513ddd4a6",
+  "lastOpenFiles": [
+    "Orações.md",
+    "Varios Mitos Tchakota.md",
+    "Aguia Voando - Túmulo.md",
+    "Aldeia - construção.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/_ História - As Grandes Tribos Indígenas Norte-americanas - Grandes Civilizações da História.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/Orações.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/_Eu sou SIMBA Mafu.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/Indios Chegando na tribo.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/Recrutamento e Prova para Novos Membros da Tribo.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS/DISCURSO de apresentação.md",
+    "Sem título 1.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/🌱 Tribo Tchakota - Sioux.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/🌱 Tribo Tchakota - DICIONARIO 2.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/MITOS/Varios Mitos Tchakota.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/MITOS/Redenção APROXIMAÇÂO WASICU Pedra Redonda.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/MITOS/Porque falar pouco.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/MITOS/Visão FOGUEIRA 1.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/geral/Passado Parapungue.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/MITOS/Wakatanka.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/geral/Lore Parapungue Mafu.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/🌱 Tribo Tchakota - DICIONARIO.md",
+    "Craft Indígena.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/📋 anotações gerais.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/🌱 Tribo Tchakota - ANIMAÇÕES.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/_MAPAS/Árvores.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/biblioteca/Visiting Lakota Medicine Man - rare oportunity.md",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/_MAPAS",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/RITUAIS",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/geral",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/biblioteca",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO/MITOS",
+    "04 - BANK OF CREATION/07 - REDDEAD/__ÍNDIO",
+    "04 - BANK OF CREATION/07 - REDDEAD",
+    "04 - BANK OF CREATION/00 - CLIENTES",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240625210630.png",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240625210604.png",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240625210515.png",
+    "smart-chats",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240620175438.png",
+    "04 - BANK OF CREATION/06 - GTA IV/01 - OriginZ ZUMBI/00 - PRODUÇÕES",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240614095150.png",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240614075436.png",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240614073939.png",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240614050659.png",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240614042310.png",
+    "00 - NOTES/Canvas/Sem título.canvas",
+    "01 - ATTACHMENTS/00 - from Files/Pasted image 20240613194705.png",
+    "00 - NOTES/Canvas/Sem título 1.canvas",
+    "Sem título.canvas",
+    "Sem título 1.canvas"
+  ]
+}
